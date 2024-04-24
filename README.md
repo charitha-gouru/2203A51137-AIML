@@ -15,3 +15,5 @@ LAB_07: https://github.com/charitha-gouru/2203A51137-AIML/blob/main/LAB_07_AIML.
 LAB_08: https://github.com/charitha-gouru/2203A51137-AIML/blob/main/LAB_08_AIML.ipynb
 
 LAB_09: https://github.com/charitha-gouru/2203A51137-AIML/blob/main/LAB_09.ipynb
+
+LAB_10: https://github.com/charitha-gouru/2203A51137-AIML/blob/main/LAB_10_AIML.ipynb
